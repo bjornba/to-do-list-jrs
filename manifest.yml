@@ -2,7 +2,7 @@ applications:
 - path: .
   memory: 256M
   instances: 1
-  domain: mybluemix.net
-  name: deploypipelinetestapp-jrs
-  host: deploypipelinetestapp-jrs
+  domain: eu-gb.mybluemix.net
+  name: biblab32016
+  host: biblab32016
   disk_quota: 1024M
